@@ -7,6 +7,9 @@
 var RocknCoder = RocknCoder || {};
 
 RocknCoder.Coffee = (function () {
+  
+  
+  //var apiKey = "896eaa9f49a1c77a595b7d3279a1c464",
   var apiKey = "896eaa9f49a1c77a595b7d3279a1c464",
     term = "coffee",
     numListing = 20,
